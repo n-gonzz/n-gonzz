@@ -13,7 +13,7 @@
 
 - 📫 Cómo contactarme: **nicolasgondob@gmail.com**
   
-- 🌐 **[Mi página web](https://ngonzz.github.io/portfolio-2/)**
+- 🌐 **[Mi página web](https://n-gonzz.github.io/ngonzz/)**
 
 ## 🛠️ Habilidades
 - Lenguajes de programación: HTML y CSS
