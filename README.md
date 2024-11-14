@@ -16,9 +16,10 @@
 - 🌐 **[Mi página web](https://n-gonzz.github.io/ngonzz/)**
 
 ## 🛠️ Habilidades
-- Lenguajes de programación: HTML y CSS
-- Herramientas y tecnologías: Visual Studio Code, Moodle y WordPress
+- Lenguajes de programación: HTML, CSS y Java
+- Herramientas y tecnologías: VSCode, Netbeans, Moodle y WordPress
 - Nivel Básico en Desarrollo Web
+- Nivel Básico en Java
 
 
 <h3 align="left">Redes:</h3>
