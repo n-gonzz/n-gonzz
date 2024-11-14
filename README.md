@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy estudiando en **IES Ramón Mª Aller Ulloa**
+- 🔭 Actualmente estoy estudiando **1º DAW** en **IES Ramón Mª Aller Ulloa**
 
 - 📌 He realizado el **Ciclo Medio de SMR**
 
