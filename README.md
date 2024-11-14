@@ -17,7 +17,7 @@
 
 ## 🛠️ Habilidades
 - Lenguajes de programación: HTML, CSS y Java
-- Herramientas y tecnologías: VSCode, Netbeans, Moodle y WordPress
+- Herramientas y tecnologías: VSCode, NetBeans, Moodle y WordPress
 - Nivel Básico en Desarrollo Web
 - Nivel Básico en Java
 
