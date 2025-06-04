@@ -1,19 +1,15 @@
 <h1 align="center">Hola 👋, soy Nicolás González</h1>
-<h3 align="center">Soy un estudiante de Informática de Galicia, España.</h3>
+<h3 align="center">Soy un estudiante de Informática.</h3>
 
 <br>
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy estudiando **1º DAW** en **IES Ramón Mª Aller Ulloa**
+- 🔭 Actualmente estoy estudiando **Ciclo Superior de DAW**
 
 - 📌 He realizado el **Ciclo Medio de SMR**
 
-- 🌱 He realizado FCT en **[O Informático](https://maps.app.goo.gl/VXbNAjojGeT9C2jc9)**
-
-- 📫 Cómo contactarme: **nicolasgondob@gmail.com**
-  
-- 🌐 **[Mi página web](https://n-gonzz.github.io/ngonzz/)**
+- 🌱 He realizado FCT durante **3 meses**
 
 ## 🛠️ Habilidades
 - Lenguajes de programación: HTML, CSS y Java
@@ -24,8 +20,6 @@
 
 <h3 align="left">Redes:</h3>
 <p align="left">
-<a href="https://instagram.com/ngonzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngonzz_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@carrillego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@carrillego" height="30" width="40" /></a>
 <a href="https://discord.gg/G26hu9CRFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G26hu9CRFb" height="30" width="40" /></a>
 </p>
 
