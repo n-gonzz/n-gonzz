@@ -5,6 +5,8 @@
 
 ## 🚀 Sobre mí
 
+- 👨‍💼 Fundador y CEO de NGONZZ Soluciones
+
 - 🔭 Actualmente estoy estudiando **Ciclo Superior de DAW**
 
 - 📌 He realizado el **Ciclo Medio de SMR**
