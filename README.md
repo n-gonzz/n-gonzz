@@ -14,7 +14,7 @@
 - 🌱 He realizado FCT durante **3 meses**
 
 ## 🛠️ Habilidades
-- Lenguajes de programación: HTML, CSS y Java
+- Lenguajes de programación: HTML, CSS, JavaScript y Java
 - Herramientas y tecnologías: VSCode, NetBeans, Moodle y WordPress
 - Nivel Básico en Desarrollo Web
 - Nivel Básico en Java
