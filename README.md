@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Nicolás González</h1>
+<h1 align="center">Hola 👋, soy Nicolás</h1>
 <h3 align="center">Soy un estudiante de Informática.</h3>
 
 <br>
