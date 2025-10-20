@@ -1,41 +1,68 @@
-<h1 align="center">Hola 👋, soy Nicolás</h1>
-<h3 align="center">Soy un estudiante de Informática.</h3>
+<h1 align="center">👋 ¡Hola! Soy Nicolás González Dobarro</h1>
+<h3 align="center">Fundador y CEO de <a href="https://github.com/n-gonzz">NGONZZ Soluciones</a> 💻 | Emprendedor y desarrollador web</h3>
 
-<br>
+---
 
 ## 🚀 Sobre mí
 
-- 👨‍💼 Fundador y CEO de NGONZZ Soluciones
+Soy un apasionado de la tecnología, el hardware y la administración de sistemas.  
+Actualmente dirijo **NGONZZ Soluciones (NGONZZSL)**, una empresa dedicada a ofrecer servicios informáticos y soluciones web profesionales, ayudando a personas y negocios a hacer que la tecnología **simplemente funcione**.
 
-- 🔭 Actualmente estoy estudiando **Ciclo Superior de DAW**
+- 👨‍💼 **CEO y Fundador de NGONZZ Soluciones**
+- 🧠 Enfocado en infraestructura, servidores y soporte técnico
+- 💻 Apasionado por el desarrollo web con HTML, CSS y JavaScript
+- 🎓 Formado en **SMR** y **DAW**
+- 🌍 Desde Lalín, Galicia — trabajando con confianza y profesionalismo
 
-- 📌 He realizado el **Ciclo Medio de SMR**
+---
 
-- 🌱 He realizado FCT durante **3 meses**
+## 🧰 Habilidades Técnicas
 
-## 🛠️ Habilidades
-- Lenguajes de programación: HTML, CSS, JavaScript y Java
-- Herramientas y tecnologías: VSCode, NetBeans, Moodle y WordPress
-- Nivel Básico en Desarrollo Web
-- Nivel Básico en Java
+**Lenguajes:**  
+HTML • CSS • JavaScript • Java  
 
+**Herramientas y Tecnologías:**  
+VSCode • NetBeans • WordPress • Moodle • Virtualización • DNS • Hosting • Servidores VPS  
 
-<h3 align="left">Redes:</h3>
+**Competencias:**  
+Desarrollo Web • Administración de Sistemas • Mantenimiento Informático • Soporte Técnico • Gestión de Infraestructura
+
+---
+
+## 💼 Experiencia
+
+**🖥️ Desarrollador Web — NGONZZ Soluciones**  
+*Julio 2025 – Actualidad*  
+- Desarrollo de páginas web y aplicaciones ligeras  
+- Configuración y administración de servidores VPS  
+- Gestión de dominios, DNS y correo profesional  
+- Mantenimiento de servidores físicos y virtuales  
+- Soporte técnico y asesoramiento tecnológico  
+
+**🔧 Técnico Informático — Lalín (España)**  
+*Abril 2024 – Junio 2024*  
+- Instalación y optimización de sistemas operativos  
+- Diagnóstico y reparación de equipos  
+- Montaje de hardware y mantenimiento preventivo  
+
+---
+
+## 🌐 Redes y Contacto
+
 <p align="left">
-<a href="https://discord.gg/G26hu9CRFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G26hu9CRFb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ngonzz/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://discord.gg/G26hu9CRFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>
+---
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-gonzz&show_icons=true&locale=en&layout=compact" alt="n-gonzz" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-gonzz&show_icons=true&layout=compact&theme=tokyonight" alt="n-gonzz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-gonzz&show_icons=true&theme=tokyonight" alt="n-gonzz" /></p>
+
+---
+
+<h3 align="center">“Haciendo que la tecnología simplemente funcione.” ⚙️</h3>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
