@@ -19,7 +19,7 @@ Actualmente dirijo **NGONZZ Soluciones (NGONZZSL)**, una empresa dedicada a ofre
 ## 🧰 Habilidades Técnicas
 
 **Lenguajes:**  
-HTML • CSS • JavaScript • Java  
+HTML • CSS • XML • PHP • JavaScript • Java 
 
 **Herramientas y Tecnologías:**  
 VSCode • NetBeans • WordPress • Moodle • Virtualización • DNS • Hosting • Servidores VPS
