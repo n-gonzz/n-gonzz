@@ -22,10 +22,10 @@ Actualmente dirijo **NGONZZ Soluciones (NGONZZSL)**, una empresa dedicada a ofre
 HTML • CSS • JavaScript • Java  
 
 **Herramientas y Tecnologías:**  
-VSCode • NetBeans • WordPress • Moodle • Virtualización • DNS • Hosting • Servidores VPS  
+VSCode • NetBeans • WordPress • Moodle • Virtualización • DNS • Hosting • Servidores VPS
 
 **Competencias:**  
-Desarrollo Web • Administración de Sistemas • Mantenimiento Informático • Soporte Técnico • Gestión de Infraestructura
+Desarrollo Web • Administración de Sistemas • Mantenimiento Informático • Soporte Técnico
 
 ---
 
