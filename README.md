@@ -5,12 +5,10 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado de la tecnología, el hardware y la administración de sistemas.  
-Actualmente dirijo **NGONZZ Soluciones (NGONZZSL)**, una empresa dedicada a ofrecer servicios informáticos y soluciones web profesionales, ayudando a personas y negocios a hacer que la tecnología **simplemente funcione**.
+Soy un apasionado de la tecnología, el hardware y el desarrollo web.  
 
-- 👨‍💼 **CEO y Fundador de NGONZZ Soluciones**
-- 🧠 Enfocado en infraestructura, servidores y soporte técnico
-- 💻 Apasionado por el desarrollo web con HTML, CSS y JavaScript
+- 🧠 Enfocado en web, servidores y soporte técnico
+- 💻 Apasionado por el desarrollo web dinámico
 - 🎓 Formado en **SMR** y **DAW**
 - 🌍 Desde Lalín, Galicia — trabajando con confianza y profesionalismo
 
@@ -19,27 +17,26 @@ Actualmente dirijo **NGONZZ Soluciones (NGONZZSL)**, una empresa dedicada a ofre
 ## 🧰 Habilidades Técnicas
 
 **Lenguajes:**  
-HTML • CSS • XML • PHP • JavaScript • Java 
+HTML • CSS • XML • PHP • JS • Java
 
 **Herramientas y Tecnologías:**  
-VSCode • NetBeans • WordPress • Moodle • Virtualización • DNS • Hosting • Servidores VPS
+VSCode • NetBeans • WordPress • Moodle • DNS • Hosting • Servidores
 
 **Competencias:**  
-Desarrollo Web • Administración de Sistemas • Mantenimiento Informático • Soporte Técnico
+Desarrollo Web • Administración de Sistemas • Soporte Técnico
 
 ---
 
 ## 💼 Experiencia
 
-**🖥️ Desarrollador Web — NGONZZ Soluciones**  
+**🖥️ Desarrollador Web — Cuenta propia**  
 *Julio 2025 – Actualidad*  
 - Desarrollo de páginas web y aplicaciones ligeras  
 - Configuración y administración de servidores VPS  
-- Gestión de dominios, DNS y correo profesional  
-- Mantenimiento de servidores físicos y virtuales  
-- Soporte técnico y asesoramiento tecnológico  
+- Gestión de dominios, DNS y correo profesional
+- Soporte técnico y asesoramiento tecnológico
 
-**🔧 Técnico Informático — Lalín (España)**  
+**🔧 Técnico Informático — O INFORMÁTICO — Lalín**  
 *Abril 2024 – Junio 2024*  
 - Instalación y optimización de sistemas operativos  
 - Diagnóstico y reparación de equipos  
