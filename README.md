@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Nicolás González Dobarro</h1>
-<h3 align="center">> 💻 | Emprendedor y desarrollador web</h3>
+<h3 align="center"> 💻 | Emprendedor y desarrollador web</h3>
 
 ---
 
